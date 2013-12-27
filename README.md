@@ -1,7 +1,5 @@
-tea_mn_search_and_filters
+Пример кода конец 2013-го
 =========================
-
-Пример кода конец 2013-го.
 
 - Это клиентский скрипт, он у модуля один, с комментариями - ничего, все равно они у меня потом автоматом сжимаются через yui compressor:
 https://github.com/adminoid/tea_mn_search_and_filters/blob/master/assets/components/teamn/js/web/petjacatalog.js
